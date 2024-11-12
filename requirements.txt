@@ -21,6 +21,8 @@ huggingface-hub>0.20
 typer
 rich
 typing-extensions
+opencv-python
+imageio-ffmpeg
 
 #non essential dependencies:
 kornia>=0.7.1
